@@ -1,0 +1,27 @@
+body{
+  background-color:#16a085;
+}
+
+h1 {
+  color:#FFFFFF;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color:#ecf0f1;
+  margin-left: 20px;
+}
+
+p {
+  font-family: 'Dancing Script', cursive;
+  font-size: 25px;
+  margin-left: 20px;
+}
+
+p.text{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-left: 20px;
+}
